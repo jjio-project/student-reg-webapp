@@ -29,7 +29,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://172.31.4.126:8081/repository/student-reg-webapp-snapshot/</url>
+			<url>http://15.206.165.107:8081/repository/jio-snapshot/</url>
 		</snapshotRepository>
     </distributionManagement>
 
